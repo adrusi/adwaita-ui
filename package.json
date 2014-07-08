@@ -1,9 +1,9 @@
 {
-  "name": "atom-light-ui",
+  "name": "adwaita-ui",
   "theme": "ui",
-  "version": "0.28.0",
-  "description": "Default light theme for interface components",
-  "repository": "https://github.com/atom/atom-light-ui.git",
+  "version": "0.1.0",
+  "description": "Gnome 3 Adwaita theme integration based on atom-light-ui",
+  "repository": "https://github.com/adrusi/adwaita-ui.git",
   "license": "MIT",
   "engines": {
     "atom": ">0.50.0"
