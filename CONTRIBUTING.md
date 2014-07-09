@@ -1,1 +1,1 @@
-See the [Atom contributing guide](https://github.com/atom/atom/blob/master/CONTRIBUTING.md)
+I accept reasonable pull requests.
