@@ -1,7 +1,7 @@
 {
   "name": "adwaita-ui-dark",
   "theme": "ui",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Dark Adwaita theme integration based on adwaita-ui",
   "repository": "https://github.com/skovsgaard/adwaita-ui-dark.git",
   "license": "MIT",
