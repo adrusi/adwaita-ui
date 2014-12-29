@@ -1,9 +1,9 @@
 {
-  "name": "adwaita-ui",
+  "name": "adwaita-ui-dark",
   "theme": "ui",
-  "version": "0.30.0",
-  "description": "Gnome 3 Adwaita theme integration based on atom-light-ui",
-  "repository": "https://github.com/adrusi/adwaita-ui.git",
+  "version": "0.1.0",
+  "description": "Dark Adwaita theme integration based on adwaita-ui",
+  "repository": "https://github.com/skovsgaard/adwaita-ui-dark.git",
   "license": "MIT",
   "engines": {
     "atom": ">0.50.0"
